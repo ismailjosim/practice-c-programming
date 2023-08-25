@@ -1,1 +1,1 @@
-Hello, World! This is the first code of programming c
+Hello World
